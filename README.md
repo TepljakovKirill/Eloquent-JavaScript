@@ -1,5 +1,5 @@
 
-# <div align="left">Выразительный JavaScript</div>  
+# <div align="left">Выразительный JavaScript 3-е издание</div>  
   
 
 <div align="left">В данный репозиторий я решил выложить свои варианты решений заданий этой книги.</div>   
