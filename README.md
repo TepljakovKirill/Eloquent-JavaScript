@@ -1,1 +1,1 @@
-# Eloquent-JavaScript
+# Выразительный JavaScript
